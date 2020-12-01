@@ -1,0 +1,37 @@
+a{
+    font-size: 30px;
+    color: #63aeff;
+}
+
+#firstline {
+    font-size: 40px;
+    color: #1bff4e;
+}
+
+a:hover {
+    font-size: 40px;
+}
+
+.my001{
+    /* Sketch doesnt export gradient borders at this point */
+    font-family: Helvetica;
+    font-size: 12px;
+    color: #3f72d0;
+    background-color: #e6d8d8;
+    text-align: justify;
+
+}
+.my001:hover{
+    font-size: 100px;
+}
+
+#h1_2{
+    color: #0d6ccb;
+    font-size: xx-large;
+}
+
+#divline{
+    color: red;
+    font-size: xx-large;
+    margin-bottom: auto;
+}
